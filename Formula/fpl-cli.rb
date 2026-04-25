@@ -1,8 +1,8 @@
 class FplCli < Formula
   desc "Command-line tool for Fantasy Premier League"
   homepage "https://github.com/amit3992/fpl-cli"
-  url "https://github.com/amit3992/fpl-cli/releases/download/v0.2.0/amit3992-fpl-cli-0.2.0.tgz"
-  sha256 "1b613abef631d838a76e6b0375db28285bbce1d4935512de914ba9d50a6e1833"
+  url "https://github.com/amit3992/fpl-cli/releases/download/v0.3.0/amit3992-fpl-cli-0.3.0.tgz"
+  sha256 "ec08c0203de7b52d28397c446c2ec037db7d825a81f40e979ce118098cdbea01"
   license "MIT"
 
   depends_on "node"
